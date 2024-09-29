@@ -1,0 +1,53 @@
+[
+  {
+    "_id": { "$oid": "64fe3a5bdc72f54264a8a10B" },
+    "name": "Gamis Syar'i Motif Bunga",
+    "slug": "gamis-syari-motif-bunga",
+    "description": "Gamis syar'i dengan motif bunga yang anggun, bahan nyaman dan adem untuk digunakan sehari-hari.",
+    "excerpt": "Gamis syar'i dengan motif bunga yang anggun.",
+    "price": 350000,
+    "tags": ["gamis", "syar'i", "muslimah"],
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAZSoa23lqst1P0n9_DwxbqExC99_WBkMMOA&s",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeAQTLGdk2HMF5MdZEgLrnSiwrqsHraYrZMw&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL5Spo9cra6Lch-zrmMa0FHTTQBUHgVWtm3w&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY-6BCzXbipp4ZK6ivb7Tec1Zlhb0DWk3XJA&s"
+    ],
+    "createdAt": { "$date": "2024-09-06T10:00:00.000Z" },
+    "updatedAt": { "$date": "2024-09-14T12:00:00.000Z" }
+  },
+  {
+    "_id": { "$oid": "64fe3a5bdc72f54264a8a10C" },
+    "name": "Gamis Polos Warna Pastel",
+    "slug": "gamis-polos-warna-pastel",
+    "description": "Gamis polos dengan warna-warna pastel yang elegan, cocok untuk berbagai kesempatan.",
+    "excerpt": "Gamis polos warna pastel yang elegan.",
+    "price": 420000,
+    "tags": ["gamis", "polos", "warna pastel"],
+    "thumbnail": "hhttps://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjiB0U7zIvdkT8AaVU9ir0MtdSEw_BlA2GkQ&s",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHFkRmDRVFJo7XibCPXfml9DTT-xIRQOwAoQ&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkGeDuTpne46r4uze9oOTbiKZFElUd-Aslkw&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2GgPhKTIoz7aJBzk8gJej7OgWf5IHfQSnsw&s"
+    ],
+    "createdAt": { "$date": "2024-09-07T10:00:00.000Z" },
+    "updatedAt": { "$date": "2024-09-14T12:00:00.000Z" }
+  },
+  {
+    "_id": { "$oid": "64fe3a5bdc72f54264a8a10D" },
+    "name": "Gamis Brokat Elegan",
+    "slug": "gamis-brokat-elegan",
+    "description": "Gamis dengan bahan brokat yang elegan dan mewah, cocok untuk acara formal.",
+    "excerpt": "Gamis brokat yang elegan dan mewah.",
+    "price": 550000,
+    "tags": ["gamis", "brokat", "formal"],
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy4BEMzJeDAd60pN4-k1iDu8hsataiVNH6Ig&s",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4xqc4IN6V9qfXCHNN9UwhHmUDUFIUFVlGzw&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4g7Qd0_1zMZodDBWXExfEaRAYp2Ep9tllog&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqRWesj4T_ElDZ6nAQIM07OytLMxYFTOmMaw&s"
+    ],
+    "createdAt": { "$date": "2024-09-08T10:00:00.000Z" },
+    "updatedAt": { "$date": "2024-09-14T12:00:00.000Z" }
+  }
+]
